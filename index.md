@@ -53,7 +53,7 @@ Click confirm; the transaction should cost about $0.01. The changes may take a w
 
 **INSERT SCREENSHOT**
 
-##Enabling Messaging##
+### Enabling Messaging
 
 Next, to communicate with other users on the platform, you will need to enable messaging. This is important as it means you can answer questions might have about your good or service.
 
@@ -69,7 +69,7 @@ You can see the MetaMask fox icon has a ‘1’ notification on it in the browse
 
 **INSERT SCREENSHOT**
 
-##Creating a Listing##
+### Creating a Listing
 
 Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As an example, let's select ‘Electronics’ as the category.
 
@@ -97,7 +97,7 @@ We will see our browser ask us permission to allow notifications. Click ‘Allow
 
 We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the menu.
 
-##Completing a Sale##
+### Completing a Sale
 
 When a buyer makes an offer on your art, you should receive a notification from your browser and see it in the Peer Art menu bar.
 
