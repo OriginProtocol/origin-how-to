@@ -32,8 +32,6 @@ In order to use DApps, you will often need need some ETH to complete actions on 
 
 Either way, if you are stuck or need to do something, keep an eye out on the little fox logo in your browser bar and any notifications. Click the button to pop up MetaMask and complete a transaction or sign something.
 
-![Image](/img-2.png)
-
 When you want to sell your ETH for dollars or another currency, we recommend using [Coinbase](https://coinbase.com). You can send ETH to your account on Coinbase and exchange it for dollars that can then be withdrawn to your bank account.
 
 ## Using the Origin Marketplace DApp
@@ -43,15 +41,15 @@ After you have MetaMask up and running, navigate to the [Origin Marketplace DApp
 ### Setting up a Profile
 Click the icon in the top right corner and click ‘Edit Profile’ or go directly to the [profile page](https://dapp.originprotocol.com/#/profile).
 
-![Image](/img-3.png)
+![Image](/img-2.png)
 
 On the profile page, you can  upload a profile picture, add a description, and verify your phone, email, etc. Importantly, after you verify your user data, you will still need to publish this to the blockchain so that other users can see your profile data. After you are done, click ‘Publish Now’. You will see another prompt, read it and click ‘Let’s do it!’. You will then be prompted to confirm a transaction on MetaMask.
 
-![Image](/img-4.png)
+![Image](/img-3.png)
 
 Click confirm; the transaction should cost about $0.01. The changes may take a while to publish, and you will be able to see the status in the menu bar.
 
-![Image](/img-5.png)
+![Image](/img-4.png)
 
 ### Enabling Messaging
 
@@ -59,41 +57,41 @@ Next, to communicate with other users on the platform, you will need to enable m
 
 To enable messaging between yourself and potential buyers, you will need to create two signatures (by signing twice) with MetaMask. Click the message bubble and then click ‘Enable Messaging’. MetaMask should pop up and ask you to sign a message. Click sign. This will not cost anything.
 
-![Image](/img-6.png)
+![Image](/img-5.png)
 
 After clicking sign, it will take you to the messaging center. If not, click the message bubble and ‘View All’. There will be a button that says ‘Enable Messaging’ again, click it.
 
-![Image](/img-7.png)
+![Image](/img-6.png)
 
 You can see the MetaMask fox icon has a ‘1’ notification on it in the browser bar, open MetaMask and sign again.
 
-![Image](/img-8.png)
+![Image](/img-7.png)
 
 ### Creating a Listing
 
 Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As an example, let's select ‘Electronics’ as the category.
 
-![Image](/img-9.png)
+![Image](/img-8.png)
 
 We can fill out information about the item for sale and choose a price in ETH with the equivalent in US dollars displayed (at the time of listing, ETH price fluctuates!).
 
-![Image](/img-10.png)
+![Image](/img-9.png)
 
 We can add multiple photos and drag and drop to rearrange the order of photos displayed.
 
-![Image](/img-11.png)
+![Image](/img-10.png)
 
 Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now if we don’t have any OGN tokens (Origin coins). Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
-![Image](/img-12.png)
+![Image](/img-11.png)
 
 Here you can see the gas fee we pay to post the listing is about a penny. After posting the listing, we will see a prompt. Please click ‘Enable Notifications’ so you get updates when a buyer sends you a message or makes an offer.
 
-![Image](/img-13.png)
+![Image](/img-12.png)
 
 We will see our browser ask us permission to allow notifications. Click ‘Allow’.
 
-![Image](/img-14.png)
+![Image](/img-13.png)
 
 We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the menu.
 
@@ -101,27 +99,27 @@ We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the m
 
 When a buyer makes an offer on your art, you should receive a notification from your browser and see it in the Peer Art menu bar.
 
-![Image](/img-15.png)
+![Image](/img-14.png)
 
 If we are comfortable accepting the offer, we can hit ‘Accept’. We can also message the buyer by clicking ‘Contact Buyer’ to discuss any questions you may have for the buyer.
 
-![Image](/img-16.png)
+![Image](/img-15.png)
 
 To accept the offer, we will have to do another action in MetaMask, which should cost about a penny or less.
 
-![Image](/img-17.png)
+![Image](/img-16.png)
 
 The ETH the buyer paid for this item is locked and held in escrow until you fulfill the order (e.g. ship the product or fulfill a service). You will see a ‘Fulfillment Checklist’ of the steps required to unlock this ETH and send it to your wallet.
 
-![Image](/img-18.png)
+![Image](/img-17.png)
 
 Once the buyer is satisfied with their purchase, they will finalize the order. You will receive a notification that the order is finalized, and the ETH will be delivered to your wallet.
 
-![Image](/img-19.png)
+![Image](/img-18.png)
 
 Now that the ETH is released to your wallet, you can leave a review of the buyer.
 
-![Image](/img-20.png)
+![Image](/img-19.png)
 
 The sales process is now complete! You can either keep your newly earned ETH in your MetaMask wallet, or transfer it to your Coinbase account and trade it for cold hard cash direct to your bank account.
 
