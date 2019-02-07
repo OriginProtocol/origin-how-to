@@ -16,7 +16,7 @@ Check out this [short video guide](https://www.youtube.com/watch?v=ZIGUC9JAAw8) 
 
 If you don’t have any ETH (short for ether, or Ethereum coins) and don’t want to buy any for yourself, we will send you a tiny amount (about $0.05) to create your listing. Contact Origin with your MetaMask wallet address (also called a public key), provide details about your listing, and we will send you some ETH for free.
 
-**INSERT SCREENSHOT**
+![Image](/img-1.png)
 
 ### Mobile
 
