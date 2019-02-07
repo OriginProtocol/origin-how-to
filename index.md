@@ -69,7 +69,7 @@ You can see the MetaMask fox icon has a ‘1’ notification on it in the browse
 
 ### Creating a Listing
 
-Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As an example, let's select ‘Electronics’ as the category.
+Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As an example, let's select ‘Cell Phones’ as the category.
 
 ![Image](/img-8.png)
 
