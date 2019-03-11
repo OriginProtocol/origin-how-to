@@ -81,7 +81,7 @@ We can add multiple photos and drag and drop to rearrange the order of photos di
 
 ![Image](/img-10.png)
 
-Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now if we don’t have any OGN tokens (Origin coins). Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
+Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. If you have OGN tokens (Origin tokens), you can use them to boost your listing. Boosting your listing is like adding a small commission to your listing. This encourages DApps (right now just Origin but in the future many other apps) to promote and feature your listing. This increases the likelihood of your listing being sold quickly. After deciding whether to boost your listing, advance to the next screen. Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
 ![Image](/img-11.png)
 
